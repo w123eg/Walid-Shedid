@@ -2,7 +2,11 @@
 
 </head>
 <body>
+<?php
 
+echo "Waleed";
+
+?>
 
 <label>Category</label>
       <input type="text" class="form-control" id="Dphp" value="www"> 
